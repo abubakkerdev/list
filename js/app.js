@@ -7,34 +7,7 @@ let classListArr = [
     time: "6.00pm - 8.00pm",
     date: "March 3, 2024",
   },
-  {
-    uname: "sdfdsf",
-    batch: "MERN-2201",
-    topic: "Backend",
-    time: "6.00pm - 8.00pm",
-    date: "March 3, 2024",
-  },
-  {
-    uname: "sdfdsf",
-    batch: "MERN-2201",
-    topic: "Backend",
-    time: "6.00pm - 8.00pm",
-    date: "March 3, 2024",
-  },
-  {
-    uname: "sdfdsf",
-    batch: "MERN-2201",
-    topic: "Backend",
-    time: "6.00pm - 8.00pm",
-    date: "March 3, 2024",
-  },
-  {
-    uname: "sdfdsf",
-    batch: "MERN-2201",
-    topic: "Backend",
-    time: "6.00pm - 8.00pm",
-    date: "March 3, 2024",
-  },
+
 ];
 
 let classListData = "";
@@ -66,25 +39,11 @@ addClassList.innerHTML = classListData;
 let addSupportList = document.querySelector(".addSupportList");
 let supportListArr = [
   {
-    uname: "sdfdsf",
-    batch: "MERN-2201",
-    topic: "Backend",
-    time: "6.00pm - 8.00pm",
-    date: "March 3, 2024",
-  },
-  {
-    uname: "sdfdsf",
-    batch: "MERN-2201",
-    topic: "Backend",
-    time: "6.00pm - 8.00pm",
-    date: "March 3, 2024",
-  },
-  {
-    uname: "sdfdsf",
-    batch: "MERN-2201",
-    topic: "Backend",
-    time: "6.00pm - 8.00pm",
-    date: "March 3, 2024",
+    uname: "Sabbir",
+    batch: "MERN-2309",
+    topic: "Design",
+    time: "4.00pm - 4.23pm",
+    date: "March 12, 2024",
   },
 ];
 
@@ -107,7 +66,7 @@ supportListArr.map((element, index) => {
 supportListData += `
 <tr>
     <th scope="row">#${supportListArr.length + 1}</th>
-    <td colspan="5" align="end"><span>Total Class</span></td>
+    <td colspan="5" align="end"><span>Total Support</span></td>
     <td><span>= ${supportListArr.length}</span></td>
 </tr>
 `;
