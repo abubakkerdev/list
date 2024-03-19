@@ -73,6 +73,13 @@ let supportListArr = [
     time: "10.55am - 11.23am",
     date: "March 14, 2024",
   },
+  {
+    uname: "Munjarin",
+    batch: "FDR-2314",
+    topic: "Frontend",
+    time: "9.10am - 9.30am",
+    date: "March 19, 2024",
+  },
 ];
 
 let supportListData = "";
