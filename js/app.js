@@ -7,7 +7,6 @@ let classListArr = [
     time: "6.00pm - 8.00pm",
     date: "March 3, 2024",
   },
-
 ];
 
 let classListData = "";
@@ -79,6 +78,20 @@ let supportListArr = [
     topic: "Frontend",
     time: "9.10am - 9.30am",
     date: "March 19, 2024",
+  },
+  {
+    uname: "Sabbir",
+    batch: "MERN-2309",
+    topic: "Design",
+    time: "11.40am - 11.55am",
+    date: "March 19, 2024",
+  },
+  {
+    uname: "Md.Sahed Rahman",
+    batch: "FDR-2314",
+    topic: "React",
+    time: "2.42pm - 2.52pm",
+    date: "March 22, 2024",
   },
 ];
 
