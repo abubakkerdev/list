@@ -75,7 +75,7 @@ let supportListArr = [
   {
     uname: "Munjarin",
     batch: "FDR-2314",
-    topic: "Frontend",
+    topic: "Design",
     time: "9.10am - 9.30am",
     date: "March 19, 2024",
   },
@@ -92,6 +92,13 @@ let supportListArr = [
     topic: "React",
     time: "2.42pm - 2.52pm",
     date: "March 22, 2024",
+  },
+  {
+    uname: "MD.ARMAN HOSSAIN",
+    batch: "FDR-2403",
+    topic: "Design",
+    time: "1.46pm - 1.54pm",
+    date: "March 23, 2024",
   },
 ];
 
