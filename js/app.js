@@ -107,6 +107,20 @@ let supportListArr = [
     time: "1.26pm - 1.44pm",
     date: "March 25, 2024",
   },
+  {
+    uname: "Asiqur Rahman",
+    batch: "FDR-2304",
+    topic: "Design",
+    time: "10.05am - 10.30am",
+    date: "March 29, 2024",
+  },
+  {
+    uname: "MD.ARMAN HOSSAIN",
+    batch: "FDR-2403",
+    topic: "Design",
+    time: "11.10am - 11.21am",
+    date: "March 29, 2024",
+  },
 ];
 
 let supportListData = "";
