@@ -86,6 +86,14 @@ let supportListArr = [
     time: "11.40am - 11.55am",
     date: "March 19, 2024",
   },
+
+  {
+    uname: "Maysa",
+    batch: "FDR-2314",
+    topic: "JavaScript",
+    time: "12.10pm - 1.05pm",
+    date: "March 19, 2024",
+  },
   {
     uname: "Md.Sahed Rahman",
     batch: "FDR-2314",
@@ -128,6 +136,22 @@ let supportListArr = [
     topic: "Design",
     time: "12.10pm - 12.43pm",
     date: "March 29, 2024",
+  },
+
+  {
+    uname: "Maysa",
+    batch: "FDR-2314",
+    topic: "JavaScript",
+    time: "12.05pm - 1.10pm",
+    date: "April 2, 2024",
+  },
+
+  {
+    uname: "MD.ARMAN HOSSAIN",
+    batch: "FDR-2403",
+    topic: "JavaScript",
+    time: "2.00pm - 2.30pm",
+    date: "April 2, 2024",
   },
 
 ];
