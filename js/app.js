@@ -154,6 +154,13 @@ let supportListArr = [
     date: "April 2, 2024",
   },
 
+  {
+    uname: "Himu",
+    batch: "ES MERN-2201",
+    topic: "Backend",
+    time: "11.36am - 11.50am",
+    date: "April 4, 2024",
+  },
 ];
 
 let supportListData = "";
